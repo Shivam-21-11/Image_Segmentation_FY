@@ -6,3 +6,4 @@ Semantic segmentation, or image segmentation, is the task of clustering parts of
 - Already trained model in h5 format custom_unet_v1_13-04-22.h5
 	- Load the pre-trained model using [tensorflow.keras.models.load_model()](https://www.tensorflow.org/api_docs/python/tf/keras/models/load_model "tensorflow.keras.models.load_model()")
 - Model Diagram in png format .
+- Web Implementation of the model using flask
